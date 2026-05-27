@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on IMJ Blog</title>
-    <link>https://example.org/categories/</link>
+    <link>https://hihiimj.github.io/categories/</link>
     <description>Recent content in Categories on IMJ Blog</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>ko-kr</language>
+    <atom:link href="https://hihiimj.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

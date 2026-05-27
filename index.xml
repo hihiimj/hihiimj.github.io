@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>IMJ Blog</title>
-    <link>https://example.org/</link>
+    <link>https://hihiimj.github.io/</link>
     <description>Recent content on IMJ Blog</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>ko-kr</language>
     <lastBuildDate>Wed, 27 May 2026 17:47:14 +0900</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hihiimj.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Note</title>
-      <link>https://example.org/posts/test-note/</link>
+      <link>https://hihiimj.github.io/posts/test-note/</link>
       <pubDate>Wed, 27 May 2026 17:47:14 +0900</pubDate>
-      <guid>https://example.org/posts/test-note/</guid>
+      <guid>https://hihiimj.github.io/posts/test-note/</guid>
       <description>&lt;p&gt;26.05.27.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Git과 Hugo를 설치함&lt;/li&gt;
